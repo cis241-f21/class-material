@@ -11,7 +11,7 @@ Office Hours:
 
 Contact:
 
-* [Piazza](https://piazza.com/class/kk2pgnmcqcl5n8) **preferred**
+* [Piazza](piazza.com/gvsu/fall2021/cis241/home) **preferred**
 * [erin.carrier@gvsu.edu](mailto:erin.carrier@gvsu.edu?subject=[CIS241]) ^^^in almost all cases use Piazza
 
 ## Course Description
@@ -186,7 +186,7 @@ is the case it will be clearly stated on the schedule).  Additionally,
 for some minilabs, I may ask a couple students to walkthrough their
 attempt with the class.
 
-Two minilab swill be dropped -- think of this like a free
+Two minilabs will be dropped -- think of this like a free
 skip day, no need to even say anything.  
 
 ### Exam Policies
@@ -243,7 +243,7 @@ FAQs:
 * Can I use sites like stackoverflow?  *Yes, this is allowed in this course,
   so long as you are not simply posting your entire problem and asking
   for a solution and that you do not look for or use a full solution to a large
-  portion of the problem (regardless of whether or not you were the one asking).
+  portion of the problem (regardless of whether or not you were the one asking).*
 * Can I use sites like Chegg?  *No, this would be considered an academic
   integrity violation, even if you were not the one posting the question*
 
