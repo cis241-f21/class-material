@@ -23,8 +23,9 @@ This course should help acquaint you with:
 
 ### Need Help?
 If you have questions, please ask!  I'm here to help.  I welcome students
-to just sign-on to the office hour zoom calls and use the time
-to work on their projects and listen to questions others might have.
+to drop by office hours, either virtual or in-person,
+to work on their projects and listen to questions others might have (or chat
+about other CS topics, grad school, etc.)
 
 ### COVID
 While the goal for this semester is to be as normal as possilbe,
