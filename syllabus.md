@@ -73,7 +73,7 @@ After successful completion of the course a student should be able to:
 
 | Activity   | Estimated # | Percentage | Other notes |
 | ---------- | ----------- | ---------- | ----------- |
-| Mini-labs            | ~15 | 20% | the lowest minilab score will be dropped |
+| Mini-labs            | ~15 | 20% | the two lowest minilab score will be dropped |
 | Programming Projects | ~4  | 35% | |
 | Quiz - Basic Command Line Proficiency | 1 | 5% | |
 | Exams                | ~2 (1 midterm, 1 final)  | 40% | |
