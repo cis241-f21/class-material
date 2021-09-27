@@ -23,7 +23,7 @@
     not need to use `meld`).  You can keep whatever lines you
     choose.
 16. Don't forget to add and commit to finish the merge.
-17. Pop yor stash made in step 6
+17. Pop your stash made in step 6
 18. Add and commit the changes to `fileB.txt`.
 19. Use `git log` to find the SHA for the original commit
 20. Use `git restore` to access the version of `fileB.txt`
