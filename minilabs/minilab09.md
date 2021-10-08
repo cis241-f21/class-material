@@ -35,12 +35,12 @@ Write a shell script that
      be another good place to exit if it is invalid).
 
 
-### Part 2
+### Part 2 (for more practice, optional)
 The purpose of this part is to practice with loops in bash scripts.
 * Instead of accepting 2 arguments, loop through all possible
   values and produce output for all possible rating numbers
 
-### Part 3
+### Part 3 (for more practice, optional)
 This part will help you practice with the idea of nesting conditionals/loops.
 Modify your script to:
 * Accept either 2 or 3 arguments.
