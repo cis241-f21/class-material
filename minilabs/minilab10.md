@@ -22,4 +22,4 @@ Where:
 You can grab a file that contains a mix of valid and invalid phone numbers
 with `wget https://raw.githubusercontent.com/cis241-f21/class-material/master/misc-files/week07/regex/phone-numbers.txt`
 
-* You can see all of the [valid phone numbers](misc-files/week07/regex/phone-numbers-valid.txt)
+* You can see all of the [valid phone numbers](../misc-files/week07/regex/phone-numbers-valid.txt)
