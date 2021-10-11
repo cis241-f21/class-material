@@ -18,3 +18,8 @@ Where:
 * the first digit of the 7 digit number (aka, the 4th
   digit of the 10 digit numberz0 can only be between 2 and 9
 * the rest of the digits can be any number between 0 and 9
+
+You can grab a file that contains a mix of valid and invalid phone numbers
+with `wget https://raw.githubusercontent.com/cis241-f21/class-material/master/misc-files/week07/regex/phone-numbers.txt`
+
+* You can see all of the [valid phone numbers](misc-files/week07/regex/phone-numbers-valid.txt)
