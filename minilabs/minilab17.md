@@ -33,3 +33,14 @@ Create a program that:
 2. Check whether each cell is a peak, keeping track
    of the total number of peaks found.
 3. Print the number of peaks.
+
+
+### Larger Example:
+```
+5 6
+1 8 3 2 7 4
+2 5 1 9 3 1
+2 3 6 8 0 4
+4 7 6 5 5 6
+3 2 3 2 3 1
+```
