@@ -44,3 +44,5 @@ Create a program that:
 4 7 6 5 5 6
 3 2 3 2 3 1
 ```
+
+This larger example should have 4 peaks (8 in first row, 9 in second row, 7 in fourth row, spot2, 6 in fourth row, last spot.)
