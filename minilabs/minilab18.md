@@ -24,5 +24,9 @@ Installing gdb:
 
 Installing valgrind:
 * WSL Users:  `sudo apt-get install valgrind`
-* Mac Users:  `brew install valgrind`
+* Mac Users:
+  ```
+  brew tap LouisBrunner/valgrind
+  brew install --HEAD LouisBrunner/valgrind/valgrind
+  ```
 
