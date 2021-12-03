@@ -69,6 +69,7 @@ covered:
     * How to allocate dynamically
 * Pointers
     * Know how to make pointers
+    * Understand how to use them
     * Understand pointer arithmetic
 * Know the purpose of and when to use "address of" and "value of"
   operators
@@ -94,6 +95,8 @@ covered:
 * 2D Arrays
     * How are they handled in C?
     * Understand the different ways we can create 2D arrays
+    * Understand how the different ways actually work -- why do some
+      allow use of `[i][j]` notation whereas others don't
 * Enums, unions, structs
     * What are they?
     * How do we use them?
@@ -187,6 +190,4 @@ covered:
     * what are character classes
     * figure out which match
     * write one that matches or doesn't match
-
-
 
